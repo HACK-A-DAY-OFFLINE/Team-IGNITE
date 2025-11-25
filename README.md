@@ -150,7 +150,7 @@ For issues or questions:
 
 ## Acknowledgments
 
-Built for maternal health care in rural Tamil Nadu, India.
+Built for maternal health care in rural India.
 
 ---
 
